@@ -24,3 +24,5 @@ C:\Users\Muluken\Desktop\C#\BethanysPieShop\obj\Debug\net6.0\refint\BethanysPieS
 C:\Users\Muluken\Desktop\C#\BethanysPieShop\obj\Debug\net6.0\BethanysPieShop.pdb
 C:\Users\Muluken\Desktop\C#\BethanysPieShop\obj\Debug\net6.0\BethanysPieShop.genruntimeconfig.cache
 C:\Users\Muluken\Desktop\C#\BethanysPieShop\obj\Debug\net6.0\ref\BethanysPieShop.dll
+C:\Users\Muluken\Desktop\C#\BethanysPieShop\obj\Debug\net6.0\BethanysPieShop.RazorAssemblyInfo.cache
+C:\Users\Muluken\Desktop\C#\BethanysPieShop\obj\Debug\net6.0\BethanysPieShop.RazorAssemblyInfo.cs
