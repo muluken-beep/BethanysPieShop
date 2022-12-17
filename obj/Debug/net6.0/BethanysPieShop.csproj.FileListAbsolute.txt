@@ -26,3 +26,5 @@ C:\Users\Muluken\Desktop\C#\BethanysPieShop\obj\Debug\net6.0\BethanysPieShop.gen
 C:\Users\Muluken\Desktop\C#\BethanysPieShop\obj\Debug\net6.0\ref\BethanysPieShop.dll
 C:\Users\Muluken\Desktop\C#\BethanysPieShop\obj\Debug\net6.0\BethanysPieShop.RazorAssemblyInfo.cache
 C:\Users\Muluken\Desktop\C#\BethanysPieShop\obj\Debug\net6.0\BethanysPieShop.RazorAssemblyInfo.cs
+C:\Users\Muluken\Desktop\C#\BethanysPieShop\bin\Debug\net6.0\libman.json
+C:\Users\Muluken\Desktop\C#\BethanysPieShop\bin\Debug\net6.0\BethanysPieShop.staticwebassets.runtime.json
