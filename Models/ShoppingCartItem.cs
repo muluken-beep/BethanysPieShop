@@ -8,10 +8,6 @@
 
         public int Amount { get; set; }
 
-        public string? ShoppingCartID { get; set; } 
-
-
-
-
+        public string? ShoppingCartId { get; set; }
     }
 }
